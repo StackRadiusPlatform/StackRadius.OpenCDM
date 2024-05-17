@@ -1,0 +1,3 @@
+[submodule "StackRadius/StackRadius.CoreCDM"]
+	path = StackRadius/StackRadius.CoreCDM
+	url = https://github.com/StackRadiusPlatform/StackRadius.CoreCDM.git
